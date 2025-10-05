@@ -1,4 +1,4 @@
-name: Email Step Demo
+name:  Workflow with Email Identifier
 
 on:
   push:
